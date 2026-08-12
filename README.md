@@ -245,17 +245,31 @@ MongoDB
 
 ### Landing Page
 ![Landing Page](screenshot/LandingPage_1)
-![Landing Page](screenshot/LandingPage_2)
+### Landing Page
+
+![Landing Page](./screenshots/LandingPage_1.png)
+![Landing Page](./screenshots/LandingPage_2.png)
+
 ### Login
-![Login Page](screenshot/Login)
+
+![Login](./screenshots/Login.png)
+
 ### Register
-![Registration](screenshot/Registration)
+
+![Register](./screenshots/Registration.png)
+
 ### Dashboard
-![Dashboard](screenshot/Dashboard)
+
+![Dashboard](./screenshots/Dashboard.png)
+
 ### Upload Resume
-![Upload Resume](screenshot/Upload)
+
+![Upload Resume](./screenshots/Upload.png)
+
 ### Resume History
-![History](screenshot/History)
+
+![Resume History](./screenshots/History.png)
+
 ---
 
 # Installation
@@ -382,11 +396,5 @@ This project demonstrates:
 
 **Ayesha Sheikh**
 
-* GitHub: https://github.com/ayesha2524
+* GitHub: https://github.com/ayeshasheikh25
 * LinkedIn: https://www.linkedin.com/in/ayesha-sheikh-722304362/
-
----
-
-# License
-
-This project is licensed under the MIT License.
