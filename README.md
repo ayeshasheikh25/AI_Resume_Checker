@@ -244,31 +244,29 @@ MongoDB
 # Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/LandingPage_1.PNG)
-### Landing Page
 
-![Landing Page](./screenshots/LandingPage_1.png)
-![Landing Page](./screenshots/LandingPage_2.png)
+![Landing Page](screenshots/LandingPage_2.PNG)
+![Landing Page](screenshots/LandingPage_2.PNG)
 
 ### Login
 
-![Login](./screenshots/Login.png)
+![Login](screenshots/Login.PNG)
 
 ### Register
 
-![Register](./screenshots/Registration.png)
+![Register](./screenshots/Registration.PNG)
 
 ### Dashboard
 
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./screenshots/Dashboard.PNG)
 
 ### Upload Resume
 
-![Upload Resume](./screenshots/Upload.png)
+![Upload Resume](./screenshots/Upload.PNG)
 
 ### Resume History
 
-![Resume History](./screenshots/History.png)
+![Resume History](./screenshots/History.PNG)
 
 ---
 
