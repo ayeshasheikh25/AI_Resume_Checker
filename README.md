@@ -275,7 +275,7 @@ MongoDB
 ## Clone Repository
 
 ```bash
-git clone https://github.com/ayesha2524/AI-Resume-Checker.git
+git clone https://github.com/ayeshasheikh25/AI-Resume-Checker.git
 
 cd AI-Resume-Checker
 ```
