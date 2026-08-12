@@ -117,10 +117,10 @@ AI-Resume-Checker/
 │   │
 │   ├── services/
 │   │   ├── pdfServices.js
-│   │   └── geminiServices.js
+│   │   └── groqAIServices.js
 │   │
 │   ├── uploads/
-│   ├── app.js
+│   ├── server.js
 │   └── package.json
 │
 └── README.md
