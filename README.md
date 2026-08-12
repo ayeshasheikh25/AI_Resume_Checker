@@ -244,7 +244,7 @@ MongoDB
 # Screenshots
 
 ### Landing Page
-![Landing Page](screenshot/LandingPage_1)
+![Landing Page](screenshots/LandingPage_1.PNG)
 ### Landing Page
 
 ![Landing Page](./screenshots/LandingPage_1.png)
