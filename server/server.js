@@ -7,11 +7,12 @@ const AuthRoutes = require('./routes/authRoutes')
 const ResumeRoutes = require('./routes/resumeRoutes')
 const errorMiddleware = require('./middleware/errMiddleware')
 const app = express()
+require('dotenv').config()
 
 connectDB()
 
 app.use(cors({
-    origin: 'http://localhost:5173',
+    origin: process.env.CLIENT_URL,
     credentials: true
 }))
 
