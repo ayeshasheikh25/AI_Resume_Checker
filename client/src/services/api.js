@@ -1,8 +1,8 @@
 import axios from "axios";
 
 
-export const api = new axios.create({
-    baseURL: import.meta.env.SERVER_URL
+export const api = axios.create({
+    baseURL: import.meta.env.VITE_SERVER_URL
 })
 
 api.interceptors.response.use(
