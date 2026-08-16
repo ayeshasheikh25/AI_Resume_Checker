@@ -1,7 +1,7 @@
 const ResumeModel = require("../model/Resume");
 const mongoose = require("mongoose");
 const extractPDFData = require("../services/pdfServices");
-const analyzeResume = require("../services/geminiservices");
+const analyzeResume = require("../services/groqAIservices");
 const AnalysisModel = require("../model/Analysis");
 exports.uploadResumeData = async (req, res) => {
   try {
