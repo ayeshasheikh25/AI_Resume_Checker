@@ -56,7 +56,7 @@ exports.login = async(req , res)=>{
        res.cookie("token", token,{
           httpOnly: true,
           secure: true,
-          sameSite: "none", 
+          sameSite: "None", 
           maxAge: 60 * 60 * 1000
        })
        res.status(200).json(userExist)
