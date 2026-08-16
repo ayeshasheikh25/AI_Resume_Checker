@@ -7,6 +7,7 @@ const AuthRoutes = require('./routes/authRoutes')
 const ResumeRoutes = require('./routes/resumeRoutes')
 const errorMiddleware = require('./middleware/errMiddleware')
 const app = express()
+app.set("trust proxy", 1);
 require('dotenv').config()
 
 connectDB()
